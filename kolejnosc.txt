@@ -21,13 +21,15 @@ Podstawy systemu Linux dla hakerów
 Althoff Python
 
 
+Janich Klaus Topologia
 Rudin
 Ombach
 Mioduszewski
 Theory of numbers
 
-WiŻ
 Delta
+ŚN
+WiŻ
 
 Programista RSA
 
