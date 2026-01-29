@@ -1,3 +1,6 @@
+Ps 119
+
+
 Linux Magazine 2024 10 GIT
 Linux Magazine 2024 08 Framework pre-commit dla Gita
 
@@ -17,5 +20,6 @@ v sprawdzić książki jakie są w calibre na stacjonarnym
 v obejrzeć nauczanie z ostatniego Agapito
 
 v Wydział Fizyki i Informatyki Stosowanej: Kosmiczny zbieg okoliczności. Co naprawdę zobaczyli na niebie Trzej Królowie?
+
 
 
