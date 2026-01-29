@@ -18,6 +18,8 @@ Wprowadzenie do bezpieczeństwa IT
 CCNA 200-301. Zostań administratorem sieci komputerowych Cisco. Wydanie II
 Cyberbezpieczeństwo w małych sieciach
 Podstawy systemu Linux dla hakerów
+Althoff Python
+
 
 Rudin
 Ombach
