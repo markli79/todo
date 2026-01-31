@@ -20,7 +20,6 @@ Cyberbezpieczeństwo w małych sieciach
 Podstawy systemu Linux dla hakerów
 Althoff Python
 
-
 Janich Klaus Topologia
 Rudin
 Ombach
@@ -32,7 +31,6 @@ Delta
 WiŻ
 
 Programista RSA
-
 
 Fizyka na tropie świadomości
 Komputer kwantowy
