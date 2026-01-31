@@ -1,10 +1,10 @@
-Listy papierowe w plecaku
+v Listy papierowe w plecaku
 
 ŚN i WiŻ luty
 
 Twierdza Linux: 4 pdfy
 
-Ps 119
+v Ps 119
 
 
 Linux Magazine 2024 10 GIT
@@ -26,6 +26,7 @@ v sprawdzić książki jakie są w calibre na stacjonarnym
 v obejrzeć nauczanie z ostatniego Agapito
 
 v Wydział Fizyki i Informatyki Stosowanej: Kosmiczny zbieg okoliczności. Co naprawdę zobaczyli na niebie Trzej Królowie?
+
 
 
 
