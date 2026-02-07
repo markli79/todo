@@ -1,5 +1,5 @@
 
-Faustyna
+Faustyna 45
 Klucz do Ewangelii
 W deszczu łaski
 Charaktery rozmowy (wydanie specjalne 2/2022)
@@ -8,19 +8,20 @@ Fizyka 1
 Feynman (Wykłady z fizyki)
 Feynman (Fizyka aż po grób)
 Orear
+Special Relativity For Beginners: A Textbook For Undergraduates - Jurgen Freund - Google Książki 11
 
-ChatGPT
+ChatGPT 4.4
 
 Quo vAIdis
 
 Co to jest matematyka?
 
 Twierdza Linux
-Wprowadzenie do bezpieczeństwa IT
-CCNA 200-301. Zostań administratorem sieci komputerowych Cisco. Wydanie II
+Wprowadzenie do bezpieczeństwa IT 511
+CCNA 200-301. Zostań administratorem sieci komputerowych Cisco. Wydanie II 52
 Cyberbezpieczeństwo w małych sieciach
 Podstawy systemu Linux dla hakerów
-Althoff Python
+Althoff Python 151
 
 Janich Klaus Topologia
 Rudin
