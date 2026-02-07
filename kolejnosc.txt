@@ -10,7 +10,7 @@ Feynman (Fizyka aż po grób)
 Orear
 Special Relativity For Beginners: A Textbook For Undergraduates - Jurgen Freund - Google Książki 11
 
-ChatGPT 4.4
+ChatGPT 4.4 4.6
 
 Quo vAIdis
 
@@ -68,3 +68,5 @@ Teologia w praktyce
 
 Od nieuporządkowania do uczciwości. O życiu i miłości w czystości (CD - audiobook)
 Wstańcie, nie lękajcie się. Odnowiona ufność i spojrzenie w przyszłość (CD-audiobook)
+
+
