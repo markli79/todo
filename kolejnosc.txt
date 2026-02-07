@@ -7,8 +7,8 @@ Charaktery rozmowy (wydanie specjalne 2/2022)
 Fizyka 1
 Feynman (Wykłady z fizyki)
 Feynman (Fizyka aż po grób)
-Orear
 Special Relativity For Beginners: A Textbook For Undergraduates - Jurgen Freund - Google Książki 11
+Orear
 
 ChatGPT 4.4 4.6
 
@@ -16,7 +16,7 @@ Quo vAIdis
 
 Co to jest matematyka?
 
-Twierdza Linux
+Twierdza Linux 15 19
 Wprowadzenie do bezpieczeństwa IT 511
 CCNA 200-301. Zostań administratorem sieci komputerowych Cisco. Wydanie II 52
 Cyberbezpieczeństwo w małych sieciach
@@ -44,6 +44,7 @@ Dalej niż boska cząstka
 O pochodzeniu czasu
 Hiperprzestrzeń
 Kwantowa dominacja
+Procesor Feynmana
 Komputer kwantowy
 
 Charaktery rozmowy (wydanie specjalne 2/2022)
